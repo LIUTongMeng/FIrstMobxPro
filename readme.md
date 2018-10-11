@@ -1,5 +1,5 @@
-##mobx基础知识
-# 面向对象
+## mobx基础知识
+## 面向对象
 ## 属性类型
 ### 数据属性 4个描述行为的特性
 ### configurable 
@@ -15,13 +15,13 @@
 ### get 能否修改属性值
 ### set  包含属性的数据值 
 
-##mobx
+## mobx
 ## 状态引起的副作用应该被自动触发
 ## 单项数据流
 ### Action  state Reaction 
 
 
-##响应式编程的概念
+## 响应式编程的概念
 ###  index.基础知识.js
 ###  mobx api 
 ###  mobx react 
@@ -36,7 +36,7 @@
 ### mobx mobx-react react组件包装成可观察数据的反应 将 组件的render方法包装成 autorun 
 ### babel-preset-react
 
-##webpack.config.js
+## webpack.config.js
 ### module.exports={
 ###     entry:’入口文件‘
 ###     output:{
